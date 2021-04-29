@@ -2,5 +2,5 @@
 
 ## Cloud Resources
 
-1. [Cedar cloud](cedar.cloud.computecanada.ca)
-2. [Arbutus cloud](arbutus.cloud.computecanada.ca)
+1. [Cedar cloud](http://cedar.cloud.computecanada.ca)
+2. [Arbutus cloud](http://arbutus.cloud.computecanada.ca)
