@@ -1,4 +1,4 @@
-# Compute Canada Cloud Tutorial
+# How to use Compute Canada cloud
 
 ## Cloud Resources
 
