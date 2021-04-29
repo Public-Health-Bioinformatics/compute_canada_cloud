@@ -9,6 +9,7 @@ If you do not have a Compute Canada account, create one with these [instructions
 You can use Compute Canada (CCDB) username (not your email address) to log in.
 
 ## How to create a VM instance
+### Generate SSH keys if you don't have
 
 
 Reference: [https://docs.computecanada.ca/wiki/Cloud_Quick_Start](https://docs.computecanada.ca/wiki/Cloud_Quick_Start)
