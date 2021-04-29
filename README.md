@@ -16,4 +16,6 @@ When you create a virtual machine, password authentication is disabled for secur
 * [Generate SSH keys in Windows](https://docs.computecanada.ca/wiki/Generating_SSH_keys_in_Windows/en)
 * [Generate SSH keys in Linux/MAC](https://docs.computecanada.ca/wiki/Using_SSH_keys_in_Linux) 
 
+2. Launching a VM
+
 Reference: [https://docs.computecanada.ca/wiki/Cloud_Quick_Start](https://docs.computecanada.ca/wiki/Cloud_Quick_Start)
