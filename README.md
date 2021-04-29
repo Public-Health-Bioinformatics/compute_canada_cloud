@@ -5,3 +5,10 @@ If you do not have a Compute Canada account, create one with these [instructions
 
 1. [Cedar cloud](http://cedar.cloud.computecanada.ca)
 2. [Arbutus cloud](http://arbutus.cloud.computecanada.ca)
+
+You can use Compute Canada (CCDB) username (not your email address) to log in.
+
+## How to create a VM instance
+
+
+Reference: [https://docs.computecanada.ca/wiki/Cloud_Quick_Start](https://docs.computecanada.ca/wiki/Cloud_Quick_Start)
